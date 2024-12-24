@@ -1,0 +1,12 @@
+ucos-iii\lib_math.o: ..\UCOS-III\uC-LIB\lib_math.c
+ucos-iii\lib_math.o: ../UCOS-III/uC-LIB/lib_math.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-CPU/ARM-Cortex-M4/RealView/cpu.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-CPU/cpu_def.h
+ucos-iii\lib_math.o: ../Core/Src/OS/cpu_cfg.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-CPU/cpu_core.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-LIB/lib_def.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-LIB/lib_mem.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-CPU/cpu_core.h
+ucos-iii\lib_math.o: ../Core/Src/OS/lib_cfg.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-LIB/lib_str.h
+ucos-iii\lib_math.o: ../UCOS-III/uC-LIB/lib_ascii.h

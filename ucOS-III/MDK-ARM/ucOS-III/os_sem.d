@@ -1,0 +1,15 @@
+ucos-iii\os_sem.o: ..\UCOS-III\uCOS-III\Source\os_sem.c
+ucos-iii\os_sem.o: ..\UCOS-III\uCOS-III\Source\os.h
+ucos-iii\os_sem.o: ../Core/Src/OS/os_cfg.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-CPU/cpu_core.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-CPU/ARM-Cortex-M4/RealView/cpu.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-CPU/cpu_def.h
+ucos-iii\os_sem.o: ../Core/Src/OS/cpu_cfg.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-LIB/lib_def.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-LIB/lib_mem.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-CPU/cpu_core.h
+ucos-iii\os_sem.o: ../Core/Src/OS/lib_cfg.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-LIB/lib_str.h
+ucos-iii\os_sem.o: ../UCOS-III/uC-LIB/lib_ascii.h
+ucos-iii\os_sem.o: ../UCOS-III/uCOS-III/Source/os_type.h
+ucos-iii\os_sem.o: ../UCOS-III/uCOS-III/Ports/ARM-Cortex-M4/Generic/RealView/os_cpu.h
